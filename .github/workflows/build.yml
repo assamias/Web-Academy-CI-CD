@@ -1,7 +1,4 @@
 name: Simple Local
-
-on: push
-
 jobs:
   build-node:
     runs-on: ubuntu-latest
